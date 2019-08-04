@@ -1,0 +1,49 @@
+body{
+	margin: 50px;
+	margin-top: 30px
+}
+.a{
+	height: 27px;
+	background-color: red;
+	
+}
+.a1{
+	text-align: center;
+	font-size: 130px;
+}
+.hi{
+	border: 2px solid red;
+	padding: 5px;
+}
+.b{
+	padding-left: 20px;
+	font-size: 20px;
+}
+.b1{
+	padding-left: 350px;
+	font-size: 20px;
+}
+.b2{
+	float: right;
+	font-size: 20px;
+	padding-right: 20px;
+}
+.cc{
+	font-size: 70px;
+	padding-left: 90px;
+}
+.news{
+	column-count: 3;
+}
+.ami{
+	padding-left: 600px;
+	width: 300px;
+	height: 150px;
+}
+#si{
+	border-bottom: 2px solid black;
+	width: 400px;
+	padding-top: 10px;
+	font-size: 37px;
+}
+}
